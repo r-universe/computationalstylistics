@@ -2,5 +2,9 @@
   {
     "package": "stylo",
     "oncran": true
+  },
+  {
+    "package": "tidystopwords",
+    "oncran": true
   }
 ]

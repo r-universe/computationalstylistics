@@ -8,3 +8,8 @@
 	url = https://github.com/computationalstylistics/stylo
 	shallow = true
 	registered = true
+[submodule "tidystopwords"]
+	path = tidystopwords
+	url = https://github.com/computationalstylistics/tidystopwords
+	shallow = true
+	registered = true
