@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "litRiddle"]
+	path = litRiddle
+	url = https://github.com/cran/litRiddle
+	shallow = true
+	registered = true
 [submodule "stylo"]
 	path = stylo
 	url = https://github.com/computationalstylistics/stylo
